@@ -1,7 +1,7 @@
 _G.Team = "Marine" -- Marine / Pirate
 _G.Settings_V4 = {
     ["Lever"] = true, -- ออโต้ดึงคันโยก / Auto Pull Lever
-    ["InVIPServ"] = false, -- รีเซิฟให้ฟูลมูนรี / Crash when full moon end
+    ["InVIPServ"] = true, -- รีเซิฟให้ฟูลมูนรี / Crash when full moon end
     ["HelperNameList"] = { -- ตัวช่วยได้ 2 ตัว / Put the helper account name
         "MarkXouQeN",
         "RupertFBzrKV"
