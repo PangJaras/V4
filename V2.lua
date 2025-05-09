@@ -4,7 +4,7 @@ _G.Settings_V4 = {
     ["InVIPServ"] = true, -- รีเซิฟให้ฟูลมูนรี / Crash when full moon end
     ["HelperNameList"] = { -- ตัวช่วยได้ 2 ตัว / Put the helper account name
         "GrazynaHkUDRK",
-        "TarenxMRjsO"
+        "Wraithen_EP6LH3"
     },
     ["V4FarmList"] = { -- ตัวฟาร์มใส่ได้ 10 ตัวเผ่าไม่ซ้ำตัวช่วยพอ / Put account name u want to farm v4
         "ZumiMizuRILZOU",
