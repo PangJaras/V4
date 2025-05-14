@@ -1,22 +1,22 @@
 _G.Team = "Marine" -- Marine / Pirate
 _G.Settings_V4 = {
     ["Lever"] = true, -- ออโต้ดึงคันโยก / Auto Pull Lever
-    ["InVIPServ"] = false, -- รีเซิฟให้ฟูลมูนรี / Crash when full moon end
+    ["InVIPServ"] = true, -- รีเซิฟให้ฟูลมูนรี / Crash when full moon end
     ["HelperNameList"] = { -- ตัวช่วยได้ 2 ตัว / Put the helper account name
         "ElizafVronE",
         "MichaeleLiVZo"
     },
     ["V4FarmList"] = { -- ตัวฟาร์มใส่ได้ 10 ตัวเผ่าไม่ซ้ำตัวช่วยพอ / Put account name u want to farm v4
-        "Nyxalis_NCOIPU",
-        "MizukiFECXU4",
-        "ShingenSGI3QC",
-        "ZepharionE2OLO1",
-        "AbyssiorGHM0J3",
-        "KazeKuroCU0HB0",
-        "Maverius_XHRSY3",
-        "Monarion_NCN6QN",
-        "Zynmilo_YKB0TB",
-        "Orpheon_YEFZAD"
+        "NaoKumoS8HA",
+        "ZumiStar_LA3E",
+        "Tsurugi0MNX",
+        "ShirayukiR2TA",
+        "Tenzan_CPAG",
+        "KazeYume8LRK",
+        "Hikaruya8ROI",
+        "KyoMizuHLP4",
+        "KiriHoshiNXRZ",
+        "YoruTsubasa_FWJ7"
     }
 }
 getgenv().Key = "MARU_V4-UTZMWMRXBGINHCI"
