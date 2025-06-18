@@ -4,21 +4,20 @@ _G.Settings_V4 = {
     ["InVIPServ"] = true, -- รีเซิฟให้ฟูลมูนรี / Crash when full moon end
     ["HelperNameList"] = { -- ตัวช่วยได้ 2 ตัว / Put the helper account name
         "GrazynaHkUDRK",
-        "TarenxMRjsO"
+        "DarkStar_XGCQ"
     },
     ["V4FarmList"] = { -- ตัวฟาร์มใส่ได้ 10 ตัวเผ่าไม่ซ้ำตัวช่วยพอ / Put account name u want to farm v4
-        "Shiratsuki_2505",
-        "Tetsuya_r28",
-        "Zymvero_K1988",
-        "SoranoN3288",
-        "Ayameko_v6889",
-        "Pulloatler279",
-        "Petixargy03932",
-        "Thautsisk92448",
-        "Crepsbuzan923",
-        "Roshpoto9031"
+        "EchoGleZMIC",
+        "AkiRingo_LG6K",
+        "BylvarixT0EG",
+        "SumiKazeNKQB",
+        "SumiSakura_ZWM4",
+        "Akiharu_CL0D",
+        "NozomiyaYZPE",
+        "XopivaxOW2R",
+        "ToraMizuDLVE",
+        "Xelvaza2WEL"
     }
 }
-getgenv().Key = "MARU_V4-UTZMWMRXBGINHCI"
-getgenv().id = "760440516156063766"
+script_key="VGKZzlkcYfpvRvbElxkQZrlcqQIsBftK";
 loadstring(game:HttpGet("https://raw.githubusercontent.com/xshiba/MasterPClient/main/Loader.lua"))()
