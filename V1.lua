@@ -4,19 +4,19 @@ _G.Settings_V4 = {
     ["InVIPServ"] = true, -- รีเซิฟให้ฟูลมูนรี / Crash when full moon end
     ["HelperNameList"] = { -- ตัวช่วยได้ 2 ตัว / Put the helper account name
         "MarkXouQeN",
-        "monkeyvvip2"
+        "RupertFBzrKV"
     },
     ["V4FarmList"] = { -- ตัวฟาร์มใส่ได้ 10 ตัวเผ่าไม่ซ้ำตัวช่วยพอ / Put account name u want to farm v4
-        "ObliviarJ0KS",
-        "MeiNeko_YDUH",
-        "UndertorZMNA",
-        "Xylvaros_LZGN",
-        "YoruKazeRIYB",
-        "ShiroChanFLWW",
-        "FrostBlixDGWT",
-        "VibeFogYI3U",
-        "GrazorixPSYF",
-        "Fujimaru_E2CX"
+        "SumirekoLTRY",
+        "Dreadwin_I2RE",
+        "Ryusuke9KJW",
+        "SakuHime_JRGL",
+        "TakemuraVARN",
+        "HikaruneK76B",
+        "VexmiraIKFI",
+        "Ravixo_AQPB",
+        "SakuYuki6J82",
+        "SayakaICJY"
     }
 }
 script_key="VGKZzlkcYfpvRvbElxkQZrlcqQIsBftK";
